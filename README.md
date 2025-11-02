@@ -79,10 +79,3 @@ We welcome contributions to the Learning Platform! If you'd like to contribute, 
 5.  Push to the branch (`git push origin feature/your-feature-name`).
 6.  Open a Pull Request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For any questions or support, please contact [your-email@example.com].
